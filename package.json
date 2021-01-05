@@ -1,0 +1,22 @@
+{
+  "name": "jonascourse-javacript-modules-tooling",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nguyenthanhminh112000/JonasCourse-Javascript-Modules-Tooling.git"
+  },
+  "author": "Minh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nguyenthanhminh112000/JonasCourse-Javascript-Modules-Tooling/issues"
+  },
+  "homepage": "https://github.com/nguyenthanhminh112000/JonasCourse-Javascript-Modules-Tooling#readme",
+  "dependencies": {
+    "lodash-es": "^4.17.20"
+  }
+}
